@@ -27,7 +27,7 @@ a {
 #header{
     width: 100vw;
     min-height: 100vh;
-    background-image: url('Home.png');
+    background-image: url('home.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
